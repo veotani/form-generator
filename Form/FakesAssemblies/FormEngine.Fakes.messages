@@ -1,0 +1,4 @@
+D:\FormEngine\Form\Fakes\FormEngine.fakes : warning : Невозможно создать заглушку для FormEngine.Program: тип невидим для exported or assembly(FormEngine.Fakes).
+D:\FormEngine\Form\Fakes\FormEngine.fakes : warning : Невозможно создать заглушку для FormEngine.FormManager.FormGenerator: тип невидим для exported or assembly(FormEngine.Fakes).
+D:\FormEngine\Form\Fakes\FormEngine.fakes : warning : Невозможно создать оболочку совместимости для FormEngine.Program: тип невидим для exported or assembly(FormEngine.Fakes).
+D:\FormEngine\Form\Fakes\FormEngine.fakes : warning : Невозможно создать оболочку совместимости для FormEngine.FormManager.FormGenerator: тип невидим для exported or assembly(FormEngine.Fakes).

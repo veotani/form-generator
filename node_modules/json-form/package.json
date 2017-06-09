@@ -1,0 +1,92 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "https://github.com/joshfire/jsonform",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "https://github.com/joshfire/jsonform",
+        "spec": "git+https://github.com/joshfire/jsonform.git",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:joshfire/jsonform.git",
+          "sshUrl": "git+ssh://git@github.com/joshfire/jsonform.git",
+          "httpsUrl": "git+https://github.com/joshfire/jsonform.git",
+          "gitUrl": "git://github.com/joshfire/jsonform.git",
+          "shortcut": "github:joshfire/jsonform",
+          "directUrl": "https://raw.githubusercontent.com/joshfire/jsonform/master/package.json"
+        }
+      },
+      "D:\\FormEngine"
+    ]
+  ],
+  "_from": "git+https://github.com/joshfire/jsonform.git",
+  "_inCache": true,
+  "_location": "/json-form",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "https://github.com/joshfire/jsonform",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "https://github.com/joshfire/jsonform",
+    "spec": "git+https://github.com/joshfire/jsonform.git",
+    "type": "hosted",
+    "hosted": {
+      "type": "github",
+      "ssh": "git@github.com:joshfire/jsonform.git",
+      "sshUrl": "git+ssh://git@github.com/joshfire/jsonform.git",
+      "httpsUrl": "git+https://github.com/joshfire/jsonform.git",
+      "gitUrl": "git://github.com/joshfire/jsonform.git",
+      "shortcut": "github:joshfire/jsonform",
+      "directUrl": "https://raw.githubusercontent.com/joshfire/jsonform/master/package.json"
+    }
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "git+https://github.com/joshfire/jsonform.git#3aa545b8994aa85f91490ec8289765732520193c",
+  "_shasum": "32b77f80501a592c55717afb5ac0d70c48720905",
+  "_shrinkwrap": null,
+  "_spec": "https://github.com/joshfire/jsonform",
+  "_where": "D:\\FormEngine",
+  "dependencies": {},
+  "description": "Client-side JavaScript library that generates HTML forms from structured data models expressed using a JSON schema, possibly completed by a form layout description.",
+  "devDependencies": {},
+  "domain": "joshfire.com",
+  "keywords": [
+    "JSON",
+    "schema",
+    "HTML5",
+    "form"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "LICENSE"
+    }
+  ],
+  "main": "./lib/jsonform.js",
+  "maintainers": [
+    "Joshfire <contact@joshfire.com> (http://www.joshfire.com)"
+  ],
+  "name": "json-form",
+  "optionalDependencies": {},
+  "user": "Joshfire",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshfire/jsonform.git"
+  },
+  "author": "joshfire",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshfire/jsonform/issues"
+  },
+  "homepage": "https://github.com/joshfire/jsonform#readme"
+}
